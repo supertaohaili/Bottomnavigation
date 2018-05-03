@@ -135,6 +135,10 @@ public class AHBottomNavigationItem {
 		}
 		return drawable;
 	}
+
+	public int getDrawableRes(){
+		return drawableRes;
+	}
 	
 	public void setDrawable(@DrawableRes int drawableRes) {
 		this.drawableRes = drawableRes;

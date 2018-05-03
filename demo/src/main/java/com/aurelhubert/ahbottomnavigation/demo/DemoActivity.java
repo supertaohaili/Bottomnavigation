@@ -73,9 +73,9 @@ public class DemoActivity extends AppCompatActivity {
 			navigationAdapter = new AHBottomNavigationAdapter(this, R.menu.bottom_navigation_menu_3);
 			navigationAdapter.setupWithBottomNavigation(bottomNavigation, tabColors);
 		} else {
-			AHBottomNavigationItem item1 = new AHBottomNavigationItem(R.string.tab_1, R.drawable.ic_apps_black_24dp, R.color.color_tab_1);
-			AHBottomNavigationItem item2 = new AHBottomNavigationItem(R.string.tab_2, R.drawable.ic_maps_local_bar, R.color.color_tab_2);
-			AHBottomNavigationItem item3 = new AHBottomNavigationItem(R.string.tab_3, R.drawable.ic_maps_local_restaurant, R.color.color_tab_3);
+			AHBottomNavigationItem item1 = new AHBottomNavigationItem(R.string.tab_1, R.drawable.sel_home, R.color.color_tab_1);
+			AHBottomNavigationItem item2 = new AHBottomNavigationItem(R.string.tab_2, R.drawable.sel_home, R.color.color_tab_2);
+			AHBottomNavigationItem item3 = new AHBottomNavigationItem(R.string.tab_3, R.drawable.sel_home, R.color.color_tab_3);
 
 			bottomNavigationItems.add(item1);
 			bottomNavigationItems.add(item2);
