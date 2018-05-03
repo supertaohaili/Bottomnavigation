@@ -29,7 +29,7 @@ If you use drawable selector and target API < 21, don't forget to add this:
 ### Gradle
 ```groovy
 dependencies {
-    compile 'com.github.supertaohaili:bottomnavigation:2.1.0'
+    compile 'com.github.supertaohaili:Bottomnavigation:1.0.1'
 }
 ```
 ### XML
