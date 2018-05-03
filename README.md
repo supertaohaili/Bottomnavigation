@@ -1,5 +1,6 @@
 
 # AHBottomNavigation
+做了大优化，大优化大优化
 Library to implement the Bottom Navigation component from Material Design guidelines (minSdkVersion=14).
 
 ## Demo
